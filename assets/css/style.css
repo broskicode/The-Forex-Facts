@@ -61,9 +61,9 @@ h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* hero image*/
+/* forex image*/
 
-#hero-outer {
+#forex-outer {
     height: 600px;
     width: 100%;
     overflow: hidden;
@@ -78,21 +78,21 @@ h2 {
 
 
 
-#hero-image {
+#forex-image {
     height: 600px;
     width: 100%;
     background: url("../images/Forex-touch.jpeg") no-repeat center center;
 
     /*animates zoom effect on loading page */
-    animation-name: hero-zoom;
+    animation-name: forex-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
 
 
-/* creates the level of zoom for hero image*/
-@keyframes hero-zoom {
+/* creates the level of zoom for forex image*/
+@keyframes forex-zoom {
     from {
         transform: scale(1);
     }
@@ -121,9 +121,9 @@ h2 {
     position: absolute;
 }
 
-/* club ethos */
+/* piptoprofit ethos */
 
-#club-ethos {
+#piptoprofit-ethos {
     height: 600px;
 }
 
@@ -324,7 +324,7 @@ footer {
 
 /*For larger to medium screen sizes from 1200px wide and down */
 @media screen and (max-width: 1200px) {
-    #club-ethos {
+    #piptoprofit-ethos {
         width: 65%;
         height: 1200px;
         margin: 0 auto;
@@ -375,7 +375,7 @@ footer {
         left: 0;
     }
 
-    #club-ethos {
+    #piptoprofit-ethos {
         width: 90%;
         height: 1200px;
         margin: 0 auto
