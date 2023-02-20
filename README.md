@@ -8,7 +8,7 @@ Technologies Used
 Deployment
 Getting Started
 Contributing
-License
+
 
 Overview
 The purpose of The Forex Facts web application is to help users learn how to trade forex and direct them to a broker where they can sign up and subscribe to technical and fundamental education.
@@ -31,9 +31,9 @@ The main feautures of this website Include
 
 
 Technologies Used
-List the technologies used to build the web application (e.g. programming languages, frameworks, libraries, databases, etc.).
+HTML & CSS were the languages used to build this website.
 
-Deployment
+-Deployment
 Create a new repository on GitHub by clicking on the "New" button on the main page of your GitHub account. Give your repository a name, and select "Public" or "Private" depending on your preference.
 
 Clone the repository to your local machine using a Git client such as the command line or a GUI application like GitHub Desktop.
@@ -67,7 +67,5 @@ Getting Started
 Provide instructions for users to set up the web application on their local machine for development or testing. Include any prerequisites and installation steps.
 
 Contributing
-Explain how others can contribute to the web application. Include guidelines for submitting bug reports or feature requests, contributing code, and the code review process.
+Others can contribute to the further development of this webiste by sending email to piptoprofit@gmail.com regarding bug fixes or improvement ideas.
 
-License
-Include the license under which the web application is distributed.
